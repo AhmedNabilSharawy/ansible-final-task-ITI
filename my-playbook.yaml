@@ -1,0 +1,4 @@
+- name: httpd server (apache)
+  hosts: server
+  roles:
+    - web
